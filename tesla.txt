@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hi i am mathan kumar
 mathanajith
+=======
+
+how are u?
+>>>>>>> 62646b12d46b14e057ed171d00302de28ee69483
